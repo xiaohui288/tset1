@@ -1,0 +1,8 @@
+<launch>
+  <node pkg="test1" name="node1" type="node1" />
+  <node pkg="test1" name="node2" type="node2" />
+  <node pkg="test1" name="node3" type="node3" />
+  <node pkg="test1" name="node4" type="node4" />
+  <node pkg="test1" name="masternode" type="masternode" />
+</launch>
+
