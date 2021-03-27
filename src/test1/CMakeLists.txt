@@ -159,6 +159,8 @@ add_executable(node4 src/node4.cpp )
 target_link_libraries(node4 ${catkin_LIBRARIES})
 add_executable(masternode src/masternode.cpp )
 target_link_libraries(masternode ${catkin_LIBRARIES})
+add_executable(anynode src/anynode.cpp )
+target_link_libraries(anynode ${catkin_LIBRARIES})
 
 
 #############
